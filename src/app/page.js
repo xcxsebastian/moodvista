@@ -3,8 +3,8 @@ import { useEffect, useState } from 'react'
 import OnboardingModal from '../components/OnboardingModal'
 import UserGreeting from '../components/UserGreeting'
 import MotivationalQuote from '../components/MotivationalQuote'
-import CopingTip from '../components/CopingTip'
-import MoodLogger from '../components/MoodLogger'
+import CopingTip from '../../components/CopingTip'
+import MoodLogger from '../../components/MoodLogger'
 import MoodHistory from '../components/MoodHistory'
 // ...other imports
 
